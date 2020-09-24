@@ -1,4 +1,4 @@
-# Tiktok Clone
+# TikTok Clone
 
 URL:
 
